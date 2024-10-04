@@ -1,6 +1,5 @@
 <h1 align = "center">Hello all 👋, This is Viknesh S</h1>
 <h3 align = "center" > <en>.Net Developer</en> 🧑‍💻</h3>
-<img width = "300" align = "right" alt="coding" 
 
 - 👀 I’m Interested in ***Backend Development*** & ***Cyber Security***
 - 🤝 I’m looking for new challenges to enchance my skills
